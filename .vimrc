@@ -19,6 +19,3 @@ cd %:p:h
 :nmap <C-p> :bprev<CR>
 
 :syntax on
-
-execute pathogen#infect()
-filetype plugin indent on
