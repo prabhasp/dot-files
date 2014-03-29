@@ -1,5 +1,5 @@
 [user]
-	name = Prabhas Pokharel
+	name = prabhasp 
 	email = prabhas.pokharel@gmail.com
 [core]
 	excludesfile = /Users/prabhaspokharel/.gitignore_global
@@ -13,3 +13,5 @@
     interactive = auto
     ui = true
     pager = true
+[credential]
+	helper = osxkeychain
